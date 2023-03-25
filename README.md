@@ -1,2 +1,1 @@
-NLP-lab-practicals
-Lab practicals of Natural language processing 
+Lab practicals of Natural language processing.
